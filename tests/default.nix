@@ -74,6 +74,7 @@ import nmt {
     ./modules/programs/direnv
     ./modules/programs/emacs
     ./modules/programs/feh
+    ./modules/programs/ferdium
     ./modules/programs/fish
     ./modules/programs/gallery-dl
     ./modules/programs/gh

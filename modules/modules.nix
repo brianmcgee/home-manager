@@ -79,6 +79,7 @@ let
     ./programs/eww.nix
     ./programs/exa.nix
     ./programs/feh.nix
+    ./programs/ferdium.nix
     ./programs/firefox.nix
     ./programs/fish.nix
     ./programs/foot.nix
